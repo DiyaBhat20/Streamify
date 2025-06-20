@@ -1,0 +1,8 @@
+Frontend - 
+=>npm create vite@latest .
+=>npm install
+=>npm run dev 
+
+Backend - 
+=> npm init -y
+=>specific versions added in package.json the npm install

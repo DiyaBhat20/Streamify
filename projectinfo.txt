@@ -6,3 +6,5 @@ Frontend -
 Backend - 
 => npm init -y
 =>specific versions added in package.json the npm install
+
+openssl rand -base64 32

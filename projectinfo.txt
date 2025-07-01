@@ -8,3 +8,5 @@ Backend -
 =>specific versions added in package.json the npm install
 
 openssl rand -base64 32
+
+daisyui with tailwind css
